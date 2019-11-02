@@ -1,3 +1,4 @@
+﻿namespace WindowsFormsProject02
 {
     partial class Form1
     {
