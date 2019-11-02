@@ -1,0 +1,21 @@
+C:\Users\Section1\source\repos\OOPProject01\OOPProject01\bin\Debug\OOPProject01.exe.config
+C:\Users\Section1\source\repos\OOPProject01\OOPProject01\bin\Debug\OOPProject01.exe
+C:\Users\Section1\source\repos\OOPProject01\OOPProject01\bin\Debug\OOPProject01.pdb
+C:\Users\Section1\source\repos\OOPProject01\OOPProject01\obj\Debug\OOPProject01.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\OOPProject01\OOPProject01\obj\Debug\OOPProject01.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\OOPProject01\OOPProject01\obj\Debug\OOPProject01.exe
+C:\Users\Section1\source\repos\OOPProject01\OOPProject01\obj\Debug\OOPProject01.pdb
+C:\Users\Can\Desktop\OOPProject01\OOPProject01\bin\Debug\OOPProject01.exe.config
+C:\Users\Can\Desktop\OOPProject01\OOPProject01\bin\Debug\OOPProject01.exe
+C:\Users\Can\Desktop\OOPProject01\OOPProject01\bin\Debug\OOPProject01.pdb
+C:\Users\Can\Desktop\OOPProject01\OOPProject01\obj\Debug\OOPProject01.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\OOPProject01\OOPProject01\obj\Debug\OOPProject01.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\OOPProject01\OOPProject01\obj\Debug\OOPProject01.exe
+C:\Users\Can\Desktop\OOPProject01\OOPProject01\obj\Debug\OOPProject01.pdb
+C:\Users\Section1\Desktop\OOPProject01 Serhat\OOPProject01\bin\Debug\OOPProject01.exe.config
+C:\Users\Section1\Desktop\OOPProject01 Serhat\OOPProject01\bin\Debug\OOPProject01.exe
+C:\Users\Section1\Desktop\OOPProject01 Serhat\OOPProject01\bin\Debug\OOPProject01.pdb
+C:\Users\Section1\Desktop\OOPProject01 Serhat\OOPProject01\obj\Debug\OOPProject01.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\OOPProject01 Serhat\OOPProject01\obj\Debug\OOPProject01.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\OOPProject01 Serhat\OOPProject01\obj\Debug\OOPProject01.exe
+C:\Users\Section1\Desktop\OOPProject01 Serhat\OOPProject01\obj\Debug\OOPProject01.pdb

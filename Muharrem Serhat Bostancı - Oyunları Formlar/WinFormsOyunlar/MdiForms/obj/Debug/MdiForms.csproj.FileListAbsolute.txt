@@ -1,0 +1,13 @@
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\bin\Debug\MdiForms.exe.config
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\bin\Debug\MdiForms.exe
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\bin\Debug\MdiForms.pdb
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\obj\Debug\MdiForms.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\obj\Debug\MdiForms.Form1.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\obj\Debug\MdiForms.FormYeni.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\obj\Debug\MdiForms.FormYeni2.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\obj\Debug\MdiForms.Properties.Resources.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\obj\Debug\MdiForms.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\obj\Debug\MdiForms.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\obj\Debug\MdiForms.exe
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\obj\Debug\MdiForms.pdb
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\MdiForms\obj\Debug\MdiForms.FormYeni3.resources

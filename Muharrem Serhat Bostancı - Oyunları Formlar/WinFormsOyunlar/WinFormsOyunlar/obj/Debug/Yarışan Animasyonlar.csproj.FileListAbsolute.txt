@@ -1,0 +1,10 @@
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\WinFormsOyunlar\bin\Debug\WinFormsOyunlar.exe.config
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\WinFormsOyunlar\bin\Debug\WinFormsOyunlar.exe
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\WinFormsOyunlar\bin\Debug\WinFormsOyunlar.pdb
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\WinFormsOyunlar\obj\Debug\Yarışan Animasyonlar.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\WinFormsOyunlar\obj\Debug\WinFormsOyunlar.Form1.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\WinFormsOyunlar\obj\Debug\WinFormsOyunlar.Properties.Resources.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\WinFormsOyunlar\obj\Debug\Yarışan Animasyonlar.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\WinFormsOyunlar\obj\Debug\Yarışan Animasyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\WinFormsOyunlar\obj\Debug\WinFormsOyunlar.exe
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\WinFormsOyunlar\obj\Debug\WinFormsOyunlar.pdb

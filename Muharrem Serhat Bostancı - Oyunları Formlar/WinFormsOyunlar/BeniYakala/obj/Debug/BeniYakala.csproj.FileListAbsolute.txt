@@ -1,0 +1,10 @@
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\BeniYakala\bin\Debug\BeniYakala.exe.config
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\BeniYakala\bin\Debug\BeniYakala.exe
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\BeniYakala\bin\Debug\BeniYakala.pdb
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\BeniYakala\obj\Debug\BeniYakala.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\BeniYakala\obj\Debug\BeniYakala.Form1.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\BeniYakala\obj\Debug\BeniYakala.Properties.Resources.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\BeniYakala\obj\Debug\BeniYakala.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\BeniYakala\obj\Debug\BeniYakala.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\BeniYakala\obj\Debug\BeniYakala.exe
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı - Oyunları Formlar\WinFormsOyunlar\BeniYakala\obj\Debug\BeniYakala.pdb

@@ -1,0 +1,31 @@
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\bin\Debug\OOPProject03-1.exe.config
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\bin\Debug\OOPProject03-1.exe
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\bin\Debug\OOPProject03-1.pdb
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03_1.Form1.resources
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03_1.Properties.Resources.resources
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.exe
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.pdb
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\bin\Debug\OOPProject03.dll
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\bin\Debug\OOPProject03.pdb
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.csproj.CopyComplete
+C:\Users\Section1\Desktop\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03_1.FormDetay.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\bin\Debug\OOPProject03-1.exe.config
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\bin\Debug\OOPProject03-1.exe
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\bin\Debug\OOPProject03-1.pdb
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\bin\Debug\OOPProject03.dll
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\bin\Debug\OOPProject03.pdb
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03_1.Form1.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03_1.FormDetay.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03_1.Properties.Resources.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.csproj.CopyComplete
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.exe
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03-1.pdb
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03_1.OgrenciEkleme.resources
+C:\Users\section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03_1.frmOgrenciDegistir.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\OOPProject03-1\obj\Debug\OOPProject03_1.FormLog.resources

@@ -1,0 +1,36 @@
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\bin\Debug\ListView Örnek.exe.config
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\bin\Debug\ListView Örnek.exe
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\bin\Debug\ListView Örnek.pdb
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.Form1.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.Properties.Resources.resources
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.exe
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.pdb
+C:\Users\Section1\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.ListBoxOrnek.resources
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\bin\Debug\ListView Örnek.exe.config
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\bin\Debug\ListView Örnek.exe
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\bin\Debug\ListView Örnek.pdb
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.csprojAssemblyReference.cache
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.Form1.resources
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.ListBoxOrnek.resources
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.Properties.Resources.resources
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.csproj.GenerateResource.cache
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.exe
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.pdb
+C:\Users\Bostancı\Desktop\29 Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.FormComboBox.resources
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\bin\Debug\ListView Örnek.exe.config
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\bin\Debug\ListView Örnek.exe
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\bin\Debug\ListView Örnek.pdb
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.Form1.resources
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.FormComboBox.resources
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.ListBoxOrnek.resources
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.Properties.Resources.resources
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.exe
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView Örnek.pdb
+C:\Users\Section1\Desktop\OOP ve Uygulamalar Temmuz Serhat\Muharrem Serhat Bostancı-OOPProject01\ListView Örnek\obj\Debug\ListView_Örnek.ListBoxHoca1.resources
